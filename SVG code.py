@@ -74,7 +74,7 @@ def CircleSVG(image, output, circle_radius, total_images, height = 1000, width =
 # In[218]:
 
 
-CircleSVG(image = 'person.svg', output = 'output_variable_images_per_circle.svg',  circle_radius = 24, total_images= 69)
+CircleSVG(image = 'person.svg', output = 'output_variable_images_per_circle.svg',  circle_radius = 24, total_images= 70)
 
 
 # In[ ]:
